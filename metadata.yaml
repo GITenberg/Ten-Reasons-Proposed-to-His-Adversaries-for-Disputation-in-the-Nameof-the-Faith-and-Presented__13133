@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4855
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Campion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13133#Ten-Reasons-Proposed-to-His-Adversaries-for-Disputation-in-the-Nameof-the-Faith-and-Presented_
 gutenberg_issued: '2004-08-07'
 gutenberg_type: Text
 identifiers:
