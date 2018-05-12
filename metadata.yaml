@@ -1,0 +1,29 @@
+_repo: Ten-Reasons-Proposed-to-His-Adversaries-for-Disputation-in-the-Nameof-the-Faith-and-Presented__13133
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campion, Edmund, Saint
+    birthdate: 1540
+    deathdate: 1581
+    gutenberg_agent_id: '4855'
+    url: http://www.gutenberg.org/2009/agents/4855
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Campion
+description: ''
+gutenberg_issued: '2004-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Apologetic works'
+- !lcc 'BX'
+title: 'Ten Reasons Proposed to His Adversaries for Disputation in the Name
+
+  of the Faith and Presented to the Illustrious Members of Our Universities'
+url: http://www.gutenberg.org/ebooks/13133
